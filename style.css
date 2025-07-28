@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin: 0;
+}
+header {
+    margin-bottom: 2rem;
+}
+section {
+    margin-bottom: 2rem;
+}
